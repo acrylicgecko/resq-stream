@@ -1,0 +1,5 @@
+simpy>=4.1
+numpy>=1.26
+confluent-kafka>=2.4
+jsonschema>=4.21
+pytest>=8
